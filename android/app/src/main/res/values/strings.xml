@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DirectBite</string>
+    <string name="title_activity_main">DirectBite</string>
+    <string name="package_name">com.directbite.app</string>
+    <string name="custom_url_scheme">com.directbite.app</string>
+</resources>
